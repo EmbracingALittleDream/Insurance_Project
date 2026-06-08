@@ -24,7 +24,19 @@ Dự báo về số tiền bồi thường nhận được từ công ty bảo h
 - Seaborn
 
 ## Analysis Process
-
+1. Đọc dữ liệu
+2. Trực quan hóa dữ liệu
+3. Thống kê mô tả
+4. Mã hóa các biến định tính
+5. Chia dataset thành tập train và tập test
+6. Tính các ước lượng cho hệ số hồi quy (estimated coefficients)
+7. Tính ước lượng phương sai cho sai số
+8. Tính các thống kê t (student) cho phép kiểm định
+9. Tính hệ số xác định $R^2$
+10. Tính hệ số $R^2$ hiệu chỉnh
+11. Tính giá trị dự báo từ đường thẳng hồi quy ước lượng
+12. Tính khoảng tin cậy 95% cho giá trị dự báo
+13. Kiểm tra các giả định về sai số của mô hình
 
 ## Project Files
 - report: [Markdown Report](final_Project_complete.ipynb)
