@@ -27,5 +27,5 @@ Dự báo về số tiền bồi thường nhận được từ công ty bảo h
 
 
 ## Project Files
-- html report: [HTML Report](report/final_Project_complete.html)
+- report: [Markdown Report](final_Project_complete.ipynb)
 - dataset: [insurance.csv](dataset/insurance.csv)
