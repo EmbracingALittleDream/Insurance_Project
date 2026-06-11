@@ -2,7 +2,7 @@
 
 ## Objective
 Dự báo về số tiền bồi thường nhận được từ công ty bảo hiểm dựa vào các thuộc tính (biến) có sẵn
-
+Khám phá chiếc hộp đen của thuật toán hồi quy tuyến tính bội dưới góc nhin toán học
 ## Dataset
 - Source: https://www.kaggle.com/datasets/mirichoi0218/insurance?utm_source=chatgpt.com
 - Number of rows/columns: 1338 quan trắc - 7 biến
